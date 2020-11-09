@@ -1,0 +1,1 @@
+parent.window.alert(origin)
